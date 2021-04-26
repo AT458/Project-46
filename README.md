@@ -1,1 +1,1 @@
-# Project-46
+Laser's represented by red dots will spawn and disappear on the screen. All you have to do is drag your mouse cursor on top of it and left click. Your score will go up by 1. The score is depicted in the top left by "Score: 'Your Score'". It's hard, but possible.
